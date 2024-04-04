@@ -9,6 +9,7 @@ redirect_from:
 
 # Introduction
 I'm deeply passionate about computer vision, natural language processing, and robotics. By day, I delve into algorithms and models to glean insights from visual data and bridge the gap between human and machine understanding. By night, I find solace in strumming my guitar, where creativity knows no bounds. Join me on this journey of exploration, innovation, and harmonious endeavors.
+
 # Skills
 - Computer Vision: Object detection, image classification, and segmentation using OpenCV, TensorFlow, and PyTorch.
 - NLP: Sentiment analysis, text classification, and language generation with NLTK, spaCy, and Transformers.
@@ -20,6 +21,7 @@ I'm deeply passionate about computer vision, natural language processing, and ro
 - Problem Solving: Analytical and effective at dissecting complex problems.
 - Communication: Clear verbal and written communication skills.
 - Continuous Learning: Committed to staying updated with emerging technologies.
+
 # Talks
 - tbd
 
