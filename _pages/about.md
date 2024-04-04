@@ -24,8 +24,7 @@ I'm deeply passionate about computer vision, natural language processing, and ro
 # Talks
 - tbd
 
-# MACHINE LEARNING AI COMPETITIONS
-## Kaggle
+# Kaggle
 - HuBMAP - Hacking the Human Vasculature: Ranked 84th out of 1,064 participants.
 - Feedback Prize - Learning Equality - Curriculum Recommendations: Ranked 69th out of 1,057 participants.
 - Feedback Prize - English Language Learning 3rd: Ranked 62nd out of 2,654 participants.
