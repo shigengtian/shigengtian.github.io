@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Introduction
 I'm deeply passionate about computer vision, natural language processing, and robotics. By day, I delve into algorithms and models to glean insights from visual data and bridge the gap between human and machine understanding. By night, I find solace in strumming my guitar, where creativity knows no bounds. Join me on this journey of exploration, innovation, and harmonious endeavors.
 
 # Skills
