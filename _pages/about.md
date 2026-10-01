@@ -42,14 +42,9 @@ At Mirai Bit, we're building robots that perform tasks in real environments from
 </div>
 
 # Skills
-- **Embodied AI**: Vision-Language-Action (VLA) models, robot learning, and manipulation policies for real-world robots.
-- **Autonomous Driving**: End-to-end systems that combine perception, prediction, planning, and control.
-- **LLMs & Agents**: LLM fine-tuning (LoRA, SFT, RLHF/DPO), RAG, tool use, and multi-agent systems for enterprise applications.
-- **Computer Vision & Multimodal**: Detection, segmentation, video understanding, and cross-modal (vision-language) alignment.
-- **Machine Learning**: Deep learning, reinforcement learning (DQN, multi-agent RL), and tabular modeling (GBDT); proven by 14 Kaggle competition medals.
-- **Frameworks & Tools**: PyTorch, Hugging Face Transformers, OpenCV, ROS, Docker, and Git.
-- **Programming**: Python (primary) and C++.
-- **Languages**: Chinese, Japanese, and English.
+- **AI**: VLA / Embodied AI, End-to-End Autonomous Driving, LLMs & Agents, Computer Vision, Reinforcement Learning
+- **Tools**: Python, C++, PyTorch, Hugging Face, ROS, Docker
+- **Languages**: Chinese, Japanese, English
 
 # Talks
 - tbd
