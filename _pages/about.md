@@ -27,16 +27,14 @@ I'm Gengtian Shi, CEO of [Mirai Bit Co., Ltd.](https://www.mirai-bit.co.jp/) and
 - Leading a company focused on embodied AI / Vision-Language-Action (VLA) models, autonomous driving, and enterprise AI solutions built on large language models and agents.
 
 # Skills
-- Computer Vision: Object detection, image classification, and segmentation using OpenCV, TensorFlow, and PyTorch.
-- NLP: Sentiment analysis, text classification, and language generation with NLTK, spaCy, and Transformers.
-- Robotics: Motion planning, localization, and human-robot interaction using ROS, Python, and C++.
-- Machine Learning: Supervised/unsupervised learning, deep learning, and reinforcement learning.
-- Programming: Proficient in Python, experienced in C++ and Java.
-- Data Visualization: Matplotlib, Seaborn, Plotly for creating insightful visualizations.
-- Software Development: Git, agile methodologies, and CI/CD pipelines.
-- Problem Solving: Analytical and effective at dissecting complex problems.
-- Communication: Clear verbal and written communication skills.
-- Continuous Learning: Committed to staying updated with emerging technologies.
+- **Embodied AI**: Vision-Language-Action (VLA) models, robot learning, and manipulation policies for real-world robots.
+- **Autonomous Driving**: End-to-end systems that combine perception, prediction, planning, and control.
+- **LLMs & Agents**: LLM fine-tuning (LoRA, SFT, RLHF/DPO), RAG, tool use, and multi-agent systems for enterprise applications.
+- **Computer Vision & Multimodal**: Detection, segmentation, video understanding, and cross-modal (vision-language) alignment.
+- **Machine Learning**: Deep learning, reinforcement learning (DQN, multi-agent RL), and tabular modeling (GBDT); proven by 14 Kaggle competition medals.
+- **Frameworks & Tools**: PyTorch, Hugging Face Transformers, OpenCV, ROS, Docker, and Git.
+- **Programming**: Python (primary) and C++.
+- **Languages**: Chinese, Japanese, and English.
 
 # Talks
 - tbd
