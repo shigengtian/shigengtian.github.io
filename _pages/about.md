@@ -46,9 +46,6 @@ At Mirai Bit, we're building robots that perform tasks in real environments from
 - **Tools**: Python, C++, PyTorch, Hugging Face, ROS, Docker
 - **Languages**: Chinese, Japanese, English
 
-# Talks
-- tbd
-
 # Kaggle
 [Kaggle Profile](https://www.kaggle.com/shigengtian) · **Competitions Expert** · 8 Silver, 6 Bronze medals · Highest global rank: 370th
 
