@@ -26,6 +26,21 @@ I'm Gengtian Shi, CEO of [Mirai Bit Co., Ltd.](https://www.mirai-bit.co.jp/) and
 *2024 - Present*
 - Leading a company focused on embodied AI / Vision-Language-Action (VLA) models, autonomous driving, and enterprise AI solutions built on large language models and agents.
 
+# Projects
+## Embodied AI / VLA
+At Mirai Bit, we're building robots that perform tasks in real environments from visual and language instructions. We collect manipulation data by teleoperating the **OpenArm v2** dual-arm robot (7 DOF per arm), train Vision-Language-Action (VLA) models on those demonstrations with a LeRobot-based pipeline, and then test them on the real robot. We're also applying the same approach to the **Unitree G1** humanoid so it can extend to more general-purpose robots.
+
+<div style="display:flex; gap:12px; align-items:flex-start;">
+  <figure style="flex:1.5 1 0; margin:0;">
+    <img src="/images/openarm-v2.jpg" alt="OpenArm v2 dual-arm robot with VR teleoperation setup" style="width:100%;">
+    <figcaption>OpenArm v2 with VR teleoperation setup</figcaption>
+  </figure>
+  <figure style="flex:0.667 1 0; margin:0;">
+    <img src="/images/unitree-g1.jpg" alt="Unitree G1 humanoid robot" style="width:100%;">
+    <figcaption>Unitree G1 humanoid</figcaption>
+  </figure>
+</div>
+
 # Skills
 - **Embodied AI**: Vision-Language-Action (VLA) models, robot learning, and manipulation policies for real-world robots.
 - **Autonomous Driving**: End-to-end systems that combine perception, prediction, planning, and control.
