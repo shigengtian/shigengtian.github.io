@@ -41,6 +41,17 @@ At Mirai Bit, we're building robots that perform tasks in real environments from
   </figure>
 </div>
 
+## End-to-End Autonomous Driving
+I'm founding a new company dedicated to end-to-end (E2E) autonomous driving, where a single learned model handles perception, decision-making, and control instead of a pipeline of hand-engineered modules.
+
+**Technical foundation**
+- **E2E driving R&D at Mirai Bit (2024 - present)**: Research and development on E2E systems that unify perception, decision-making, and control, with multi-sensor fusion (camera, LiDAR, radar), optimized edge inference for low latency, and large-scale simulation environments. Target applications include autonomous vehicles, AGVs/AMRs, and autonomous drones.
+- **Learning from demonstration**: Our VLA work trains policies end to end from teleoperated demonstration data, following the same paradigm as E2E driving, which maps sensor input to actions using large-scale driving data.
+- **Vehicular networks & V2X**: Machine learning for 5G cellular V2X (*IEEE Access*, 2020).
+- **Reinforcement learning for decision-making**: Multi-agent Deep Q-Networks for D2D communication (ICAIIC 2020) and DQN-based resource allocation under URLLC constraints (WCNC 2025).
+- **Temporal video understanding**: Cross-modal temporal alignment for grounding actions in videos (*IEEE Access*, 2026).
+- **Perception at competition level**: Medals in Kaggle detection and segmentation challenges, including object detection in underwater video (Great Barrier Reef).
+
 # Skills
 - **AI**: VLA / Embodied AI, End-to-End Autonomous Driving, LLMs & Agents, Computer Vision, Reinforcement Learning
 - **Tools**: Python, C++, PyTorch, Hugging Face, ROS, Docker
