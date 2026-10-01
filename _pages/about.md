@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /cv/
+  - /resume
 ---
 
 I'm Gengtian Shi, CEO of [Mirai Bit Co., Ltd.](https://www.mirai-bit.co.jp/) and a Ph.D. student in Computer Science at Waseda University in Tokyo. My work focuses on embodied AI, specifically Vision-Language-Action (VLA) models that let robots see, understand, and act, as well as autonomous driving and LLM-based agents for real-world applications. My research looks at multimodal video understanding, such as cross-modal temporal alignment for grounding actions in videos. I'm also a Kaggle Competitions Expert with 14 medals across computer vision, NLP, and medical imaging challenges. Outside of work, I play the guitar.
