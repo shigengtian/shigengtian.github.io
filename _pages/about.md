@@ -13,11 +13,11 @@ I'm Gengtian Shi, CEO of [Mirai Bit Co., Ltd.](https://www.mirai-bit.co.jp/) and
 
 # Education
 **Ph.D. in Computer Science** (in progress)  
-*Waseda University, Tokyo, Japan*  
+*Graduate School of Fundamental Science and Engineering, Waseda University, Tokyo, Japan*  
 *2024 - Present*
 
 **Master of Science in Computer Science**  
-*Waseda University, Tokyo, Japan*  
+*Graduate School of Fundamental Science and Engineering, Waseda University, Tokyo, Japan*  
 *2018 - 2020*
 
 # Work Experience
