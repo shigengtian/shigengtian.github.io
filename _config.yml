@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shi Gengtian's Blog"
+title                    : "Gengtian Shi's Blog"
 title_separator          : "-"
-name                     : &name "Shi Gengtian"
+name                     : &name "Gengtian Shi"
 description              : &description "personal description"
 url                      : https://shigengtian.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "shigengtian/shigengtian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shi Gengtian"
+  name             : "Gengtian Shi"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
   location         : "Tokyo"
